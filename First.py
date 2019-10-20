@@ -1,0 +1,5 @@
+x = input("Input a number")
+print(x)
+print()
+n = eval(x)
+print(x)
